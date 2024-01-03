@@ -14,7 +14,7 @@ function App() {
 const search = () =>{
  setSerach(query);
 }
-const searchData= Search(query)
+const searchData= Search(searchQ)
 console.log(searchData)
  
   return (
